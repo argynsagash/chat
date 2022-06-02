@@ -84,3 +84,4 @@ public class ServerGUI extends JFrame implements ActionListener, Thread.Uncaught
         System.exit(1);
     }
 }
+
